@@ -45,7 +45,7 @@ const Home = () => {
             <h3 className="text-6xl font-bold">60°F</h3>
           </div>
           <div>
-            <p className="text-2xl font-bold">Clouds</p>
+            <p className="text-2xl font-bold p-2">Clouds</p>
           </div>
         </div>
         {/**Bottom part */}
