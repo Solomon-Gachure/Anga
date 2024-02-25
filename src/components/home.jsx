@@ -42,7 +42,7 @@ const Home = () => {
             <h1 className="text-2xl font-bold">{data.name}</h1>
           </div>
           <div>
-            <h3 className="text-6xl font-bold">60°F</h3>
+            <h3 className="text-6xl font-bold p-2">60°F</h3>
           </div>
           <div>
             <p className="text-2xl font-bold p-2">Clouds</p>
